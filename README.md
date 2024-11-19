@@ -39,7 +39,7 @@ Este sistema especialista ajuda a diagnosticar problemas comuns em veículos com
 - Perguntas sobre os sintomas e situações relatadas pelo usuário. <br>
 - Sugestões de ações corretivas, como verificar a bateria ou os freios. <br>
 <br>
-Exemplos de regras:
+**Exemplos de regras:**
 
 ```prolog
 problema(bateria_fraca) :- motor_nao_liga, luzes_fracas.
@@ -65,7 +65,7 @@ Funcionalidades: <br>
 - Permite ao usuário selecionar múltiplos gêneros e interesses. <br>
 - Exibe detalhes dos livros recomendados, como título, gênero e sinopse. <br>
 <br>
-Exemplos de regras:
+**Exemplos de regras:**
 
 ```prolog
 recomendar('1984') :- genero(ficcao), interesse(politica).
@@ -85,13 +85,13 @@ iniciar_recomendacao.
 ## 4. Recomendação de Treinos de Academia ##
 Este sistema sugere planos de treino para a academia baseados nos objetivos do usuário, como perder peso, ganhar massa muscular ou melhorar o condicionamento físico. O usuário também informa seu nível de experiência na academia e a disponibilidade de tempo para treinar.
 
-Funcionalidades: <br>
+**Funcionalidades:** <br>
 - Base de dados com tipos de treino para diferentes objetivos. <br>
 - Regras que associam os objetivos do usuário a planos de treino. <br>
 - Perguntas sobre o objetivo do usuário, sua experiência e tempo disponível. <br>
 - Recomendações detalhadas de treino, incluindo séries, repetições e instruções. <br>
 <br>
-Exemplos de regras:
+**Exemplos de regras:**
 
 ```prolog
 treino(hipertrofia) :- objetivo(ganhar_massa), experiencia(intermediario).
@@ -111,13 +111,13 @@ recomendar_treino.
 ## 5. Análise de Investigação Criminal ##
 O sistema especialista para análise de investigação criminal auxilia na análise de casos criminais, sugerindo suspeitos ou teorias do crime com base nas evidências e testemunhos fornecidos pelo usuário. Ele também recomenda investigar suspeitos ou verificar álibis, dependendo das evidências disponíveis.
 
-Funcionalidades: <br>
+**Funcionalidades:** <br>
 - Base de dados com evidências e testemunhos, como impressões digitais, motivo e testemunhas oculares. <br>
 - Regras que associam as evidências a possíveis suspeitos ou teorias do crime. <br>
 - Perguntas sobre as evidências e testemunhos para analisar o caso. <br>
 - Sugestões sobre quais suspeitos investigar ou quais álibis verificar. <br>
 <br>
-Exemplos de regras:
+**Exemplos de regras:**
 
 ```prolog
 suspeito(jose) :- impressao_digital(lugar_crime), motivo(financeiro).
