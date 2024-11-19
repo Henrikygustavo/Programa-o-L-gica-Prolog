@@ -29,10 +29,10 @@ doenca(gripe) :- febre, tosse, cansaco.
 doenca(infeccao_viral) :- febre, dor_de_garganta, dor_muscular.
 ```
 Para inicializar o programa basta seguir os seguintes passos <br>
-1. Abrir o compilador ``` SWI - Prolog ```.
-2. Entrar na aba ```File```. <br>
-3. Clicar em ```Consult ...``` e selecionar o arquivo ```1-Analise_mecanica```. <br>
-4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
+**1.** Abrir o compilador ``` SWI - Prolog ```.
+**2.** Entrar na aba ```File```. <br>
+**3.** Clicar em ```Consult ...``` e selecionar o arquivo ```1-Analise_mecanica```. <br>
+**4.** Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 diagnosticar.
