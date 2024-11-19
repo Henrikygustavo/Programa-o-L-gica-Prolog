@@ -1,5 +1,7 @@
 # Programação Lógica
 
+**Desenvolvido por**: [@GustavoVerdi](https://github.com/GustavoVerdi/) e [@Henrikygustavo](https://github.com/Henrikygustavo/)
+
 Este repositório contém uma série de sistemas desenvolvidos utilizando a linguagem de programação Prolog. Cada sistema é projetado para resolver problemas específicos com base em um conjunto de regras de inferência, permitindo fazer diagnósticos e recomendações em diferentes áreas, como saúde, veículos, livros, treinos de academia e investigação criminal.
 
 # 1. Diagnóstico Médico #
