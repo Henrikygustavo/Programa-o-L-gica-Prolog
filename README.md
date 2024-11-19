@@ -91,7 +91,7 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 diagnosticar.
 ```
 
-```prolog
+```bash
 ?- diagnosticar.
 Bem-vindo ao sistema de diagnóstico de problemas em veículos!
 Por favor, responda às perguntas sobre os sintomas do seu veículo.
