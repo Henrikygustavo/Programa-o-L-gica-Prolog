@@ -33,7 +33,7 @@ diagnosticar.
 ## 2. Análise de Problemas de Veículos ##
 Este sistema especialista ajuda a diagnosticar problemas comuns em veículos com base em sintomas e comportamentos relatados pelos usuários. O usuário pode informar se o motor não liga, se há barulho estranho ao frear, ou se há vazamento de óleo, e o sistema sugerirá possíveis soluções e recomendações.
 
-Funcionalidades:
+**Funcionalidades:** <br>
 Base de dados de problemas e sintomas relacionados a veículos. <br>
 Regras para associar sintomas a problemas específicos no veículo. <br>
 Perguntas sobre os sintomas e situações relatadas pelo usuário. <br>
