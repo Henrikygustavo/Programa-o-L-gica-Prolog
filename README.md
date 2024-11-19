@@ -40,6 +40,7 @@ Este sistema especialista ajuda a diagnosticar problemas comuns em veículos com
 - Perguntas sobre os sintomas e situações relatadas pelo usuário. <br>
 - Sugestões de ações corretivas, como verificar a bateria ou os freios. <br>
 <br>
+
 **Exemplos de regras:**
 
 ```prolog
@@ -66,6 +67,7 @@ Funcionalidades: <br>
 - Permite ao usuário selecionar múltiplos gêneros e interesses. <br>
 - Exibe detalhes dos livros recomendados, como título, gênero e sinopse. <br>
 <br>
+
 **Exemplos de regras:**
 
 ```prolog
@@ -92,6 +94,7 @@ Este sistema sugere planos de treino para a academia baseados nos objetivos do u
 - Perguntas sobre o objetivo do usuário, sua experiência e tempo disponível. <br>
 - Recomendações detalhadas de treino, incluindo séries, repetições e instruções. <br>
 <br>
+
 **Exemplos de regras:**
 
 ```prolog
@@ -118,6 +121,7 @@ O sistema especialista para análise de investigação criminal auxilia na anál
 - Perguntas sobre as evidências e testemunhos para analisar o caso. <br>
 - Sugestões sobre quais suspeitos investigar ou quais álibis verificar. <br>
 <br>
+
 **Exemplos de regras:**
 
 ```prolog
