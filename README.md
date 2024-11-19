@@ -8,12 +8,12 @@ Este repositório contém uma série de sistemas desenvolvidos utilizando a ling
 O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnósticos médicos com base em sintomas fornecidos pelo usuário. Ao responder a perguntas sobre sintomas como febre, dor de cabeça, tosse e outros, o sistema é capaz de sugerir doenças possíveis com base nas regras pré-definidas.
 
 **Funcionalidades:**
-
 Base de dados de sintomas e doenças. <br>
 Regras que associam sintomas a doenças. <br>
 Perguntas interativas ao usuário para coletar os sintomas. <br>
 Sugestão de possíveis diagnósticos com base nas respostas do usuário. </br>
-Exemplos de regras:
+
+**Exemplos de regras:**
 
 ```prolog
 doenca(gripe) :- febre, tosse, cansaço.
@@ -35,7 +35,9 @@ Exemplos de regras:
 problema(bateria_fraca) :- motor_nao_liga, luzes_fracas.
 problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 ```
-Para inicializar o programa basta abrir o compilador SWI - Prolog 
+Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
+1. Entrar na aba File, <br>
+2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros```
 
 ```prolog
 
