@@ -86,14 +86,14 @@ teoria(crime_passional) :- testemunha(visto_discutindo), relacao(intima).
 
 <hr>
 
-**Como Usar**
+## Como Usar
 
 Clone este repositório:
 
-```bash
+```gitbash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o arquivo desejado no ambiente de desenvolvimento SWI-Prolog.
 ```
+Abra o arquivo desejado no ambiente de desenvolvimento SWI-Prolog.
 
 Execute o código usando o comando:
 
