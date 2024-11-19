@@ -57,10 +57,10 @@ problema(bateria_fraca) :- motor_nao_liga, luzes_fracas.
 problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 ```
 Para inicializar o programa basta seguir os seguintes passos <br>
-1. Abrir o compilador ``` SWI - Prolog ```.
-2. Entrar na aba ```File```. <br>
-3. Clicar em ```Consult ...``` e selecionar o arquivo ```2-Analise_mecanica```. <br>
-4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
+**1.** Abrir o compilador ``` SWI - Prolog ```.<br>
+**2.** Entrar na aba ```File```. <br>
+**3.** Clicar em ```Consult ...``` e selecionar o arquivo ```2-Analise_mecanica```. <br>
+**4.** Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 diagnosticar.
@@ -85,10 +85,10 @@ recomendar('1984') :- genero(ficcao), interesse(politica).
 recomendar('Sapiens') :- genero(historia), interesse(ciencia).
 ```
 Para inicializar o programa basta seguir os seguintes passos <br>
-1. Abrir o compilador ``` SWI - Prolog ```.
-2. Entrar na aba ```File```. <br>
-3. Clicar em ```Consult ...``` e selecionar o arquivo ```3-Recomendacao_de_livros```. <br>
-4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
+**1.** Abrir o compilador ``` SWI - Prolog ```. <br>
+**2.** Entrar na aba ```File```. <br>
+**3.** Clicar em ```Consult ...``` e selecionar o arquivo ```3-Recomendacao_de_livros```. <br>
+**4.** Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 iniciar_recomendacao.
@@ -113,10 +113,10 @@ treino(hipertrofia) :- objetivo(ganhar_massa), experiencia(intermediario).
 treino(perda_de_peso) :- objetivo(emagrecer), disponibilidade(tempo_limitado).
 ```
 Para inicializar o programa basta seguir os seguintes passos <br>
-1. Abrir o compilador ``` SWI - Prolog ```.
-2. Entrar na aba ```File```. <br>
-3. Clicar em ```Consult ...``` e selecionar o arquivo ```4-Recomendacao_de_treinos```. <br>
-4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
+**1.** Abrir o compilador ``` SWI - Prolog ```. <br>
+**2.** Entrar na aba ```File```. <br>
+**3.** Clicar em ```Consult ...``` e selecionar o arquivo ```4-Recomendacao_de_treinos```. <br>
+**4.** Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 recomendar_treino.
@@ -141,10 +141,10 @@ suspeito(jose) :- impressao_digital(lugar_crime), motivo(financeiro).
 teoria(crime_passional) :- testemunha(visto_discutindo), relacao(intima).
 ```
 Para inicializar o programa basta seguir os seguintes passos <br>
-1. Abrir o compilador ``` SWI - Prolog ```.
-2. Entrar na aba ```File```. <br>
-3. Clicar em ```Consult ...``` e selecionar o arquivo ```5-Investigação_criminal```. <br>
-4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
+**1.** Abrir o compilador ``` SWI - Prolog ```. <br>
+**2.** Entrar na aba ```File```. <br>
+**3.** Clicar em ```Consult ...``` e selecionar o arquivo ```5-Investigação_criminal```. <br>
+**4.** Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 iniciar_analise.
