@@ -90,7 +90,7 @@ teoria(crime_passional) :- testemunha(visto_discutindo), relacao(intima).
 
 Clone este repositório:
 
-```gitbash
+```git
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 Abra o arquivo desejado no ambiente de desenvolvimento SWI-Prolog.
