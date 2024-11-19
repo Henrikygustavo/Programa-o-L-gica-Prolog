@@ -1,6 +1,6 @@
 # Programação Lógica
 
-Este repositório contém uma série de sistemas especialistas desenvolvidos utilizando a linguagem de programação Prolog. Cada sistema é projetado para resolver problemas específicos com base em um conjunto de regras de inferência, permitindo fazer diagnósticos e recomendações em diferentes áreas, como saúde, veículos, livros, treinos de academia e investigação criminal.
+Este repositório contém uma série de sistemas desenvolvidos utilizando a linguagem de programação Prolog. Cada sistema é projetado para resolver problemas específicos com base em um conjunto de regras de inferência, permitindo fazer diagnósticos e recomendações em diferentes áreas, como saúde, veículos, livros, treinos de academia e investigação criminal.
 
 # 1. Diagnóstico Médico #
 O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnósticos médicos com base em sintomas fornecidos pelo usuário. Ao responder a perguntas sobre sintomas como febre, dor de cabeça, tosse e outros, o sistema é capaz de sugerir doenças possíveis com base nas regras pré-definidas.
