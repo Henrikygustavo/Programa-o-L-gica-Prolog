@@ -156,4 +156,3 @@ prolog
 ou para cada sistema, utilize o nome da função de inicialização apropriada, como iniciar_recomendacao, iniciar_reparacao, entre outras.
 
 Siga as instruções interativas fornecidas pelo sistema.
-
