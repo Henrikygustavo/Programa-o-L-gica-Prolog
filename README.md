@@ -13,6 +13,7 @@ O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnó
 - Perguntas interativas ao usuário para coletar os sintomas. <br>
 - Sugestão de possíveis diagnósticos com base nas respostas do usuário. <br>
 <br>
+
 **Exemplos de regras:**
 
 ```prolog
