@@ -90,6 +90,7 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 ```prolog
 diagnosticar.
 ```
+### Exemplo de entrada de dado e retorno de procedimentos ###
 
 ```bash
 ?- diagnosticar.
