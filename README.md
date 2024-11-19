@@ -6,10 +6,11 @@ Este repositório contém uma série de sistemas desenvolvidos utilizando a ling
 O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnósticos médicos com base em sintomas fornecidos pelo usuário. Ao responder a perguntas sobre sintomas como febre, dor de cabeça, tosse e outros, o sistema é capaz de sugerir doenças possíveis com base nas regras pré-definidas.
 
 **Funcionalidades:**
-Base de dados de sintomas e doenças.
-Regras que associam sintomas a doenças.
-Perguntas interativas ao usuário para coletar os sintomas.
-Sugestão de possíveis diagnósticos com base nas respostas do usuário.
+
+Base de dados de sintomas e doenças. <br>
+Regras que associam sintomas a doenças. <br>
+Perguntas interativas ao usuário para coletar os sintomas. <br>
+Sugestão de possíveis diagnósticos com base nas respostas do usuário. <br>
 Exemplos de regras:
 
 ```prolog
