@@ -12,7 +12,7 @@ O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnó
 Base de dados de sintomas e doenças. <br>
 Regras que associam sintomas a doenças. <br>
 Perguntas interativas ao usuário para coletar os sintomas. <br>
-Sugestão de possíveis diagnósticos com base nas respostas do usuário. <br>
+Sugestão de possíveis diagnósticos com base nas respostas do usuário. </br>
 Exemplos de regras:
 
 ```prolog
@@ -35,6 +35,12 @@ Exemplos de regras:
 problema(bateria_fraca) :- motor_nao_liga, luzes_fracas.
 problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 ```
+Para inicializar o programa basta abrir o compilador SWI - Prolog 
+
+```prolog
+
+```
+
 <hr>
 
 ## 3. Recomendações de Livros ##
