@@ -8,7 +8,7 @@ Este repositório contém uma série de sistemas desenvolvidos utilizando a ling
 
 <br>
 
-Estaremos utilizando o ambiente de desinvolvimento [SWI-Prolog](https://drive.google.com/file/d/1KetZAmsPVHPx-6kBvDNN4bUgp2vvT0kq/view)
+Estaremos utilizando o [SWI-Prolog](https://drive.google.com/file/d/1KetZAmsPVHPx-6kBvDNN4bUgp2vvT0kq/view) como ambiente de desinvolvimento.
 
 <hr>
 
