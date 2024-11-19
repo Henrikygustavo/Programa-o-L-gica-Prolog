@@ -40,7 +40,7 @@ diagnosticar.
 
 ### Exemplo de entrada de dado e retorno de procedimentos ###
 
-```prolog
+```bash
 ?- diagnosticar.
 Bem-vindo ao sistema de diagnóstico médico!
 Por favor, responda às perguntas sobre os sintomas.
