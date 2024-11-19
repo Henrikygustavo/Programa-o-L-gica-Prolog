@@ -172,6 +172,20 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 recomendar_treino.
 ```
 
+```bash
+?- recomendar_treino.
+Qual é o seu objetivo? (ganhar_massa, emagrecer, condicionamento):
+|:ganhar_massa.
+Qual é o seu nível de experiência? (iniciante, intermediario, avancado):
+|:intermediario.
+Quanto tempo você tem disponível? (tempo_limitado, tempo_disponivel): 
+|:tempo_disponivel.
+Recomendamos o seguinte plano de treino para você:
+- Supino reto: 4 séries de 8 repetições
+- Agachamento livre: 4 séries de 8 repetições
+- Remada curvada: 3 séries de 10 repetições
+```
+
 <hr>
 
 ## 5. Análise de Investigação Criminal ##
