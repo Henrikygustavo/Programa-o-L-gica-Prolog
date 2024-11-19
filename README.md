@@ -38,9 +38,10 @@ problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
 1. Entrar na aba File, <br>
 2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros```
+3. Ao realizar os passos acima basta executar o comando abaixo, <br>
 
 ```prolog
-
+iniciar_recomendacao.
 ```
 
 <hr>
