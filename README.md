@@ -20,9 +20,9 @@ doenca(gripe) :- febre, tosse, cansaço.
 doenca(infeccao_viral) :- febre, dor_de_garganta, dor_muscular.
 ```
 Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
-1. Entrar na aba File, <br>
-2. Clicar em Consult ... e selecionar o arquivo ```1-Analise_mecanica``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo, <br>
+1. Entrar na aba ```File``` <br>
+2. Clicar em ```Consult ...``` e selecionar o arquivo ```1-Analise_mecanica``` <br>
+3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
 
 ```prolog
 diagnosticar.
@@ -48,7 +48,7 @@ problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
 1. Entrar na aba File, <br>
 2. Clicar em Consult ... e selecionar o arquivo ```2-Analise_mecanica``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo, <br>
+3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
 
 ```prolog
 diagnosticar.
@@ -74,7 +74,7 @@ recomendar('Sapiens') :- genero(historia), interesse(ciencia).
 Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
 1. Entrar na aba File, <br>
 2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo, <br>
+3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
 
 ```prolog
 iniciar_recomendacao.
@@ -100,7 +100,7 @@ treino(perda_de_peso) :- objetivo(emagrecer), disponibilidade(tempo_limitado).
 Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
 1. Entrar na aba File, <br>
 2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo, <br>
+3. Ao realizar os passos acima basta executar o comando abaixno console <br>
 
 ```prolog
 recomendar_treino.
@@ -126,7 +126,7 @@ teoria(crime_passional) :- testemunha(visto_discutindo), relacao(intima).
 Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
 1. Entrar na aba File, <br>
 2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo, <br>
+3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
 
 ```prolog
 iniciar_analise.
