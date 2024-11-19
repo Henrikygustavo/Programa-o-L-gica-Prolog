@@ -4,6 +4,12 @@
 
 Este repositório contém uma série de sistemas desenvolvidos utilizando a linguagem de programação Prolog. <br> Cada sistema é projetado para resolver problemas específicos com base em um conjunto de regras de inferência, permitindo fazer diagnósticos e recomendações em diferentes áreas, como saúde, veículos, livros, treinos de academia e investigação criminal.
 
+<hr>
+## Tecnologias Utilizadas ##
+Estaremos utilizando a IDE [SWI-Prolog](https://drive.google.com/file/d/1KetZAmsPVHPx-6kBvDNN4bUgp2vvT0kq/view) 
+
+<hr>
+
 ## 1. Diagnóstico Médico ##
 O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnósticos médicos com base em sintomas fornecidos pelo usuário. Ao responder a perguntas sobre sintomas como febre, dor de cabeça, tosse e outros, o sistema é capaz de sugerir doenças possíveis com base nas regras pré-definidas.
 
@@ -152,12 +158,3 @@ Clone este repositório:
 git clone https://github.com/Henrikygustavo/Programacao-Logica-Prolog.git
 ```
 Abra o arquivo desejado no ambiente de desenvolvimento SWI-Prolog.
-
-Execute o código usando o comando:
-
-prolog
-
-?- iniciar_analise.
-ou para cada sistema, utilize o nome da função de inicialização apropriada, como iniciar_recomendacao, iniciar_reparacao, entre outras.
-
-Siga as instruções interativas fornecidas pelo sistema.
