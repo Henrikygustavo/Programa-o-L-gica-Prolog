@@ -142,6 +142,7 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 ```prolog
 iniciar_recomendacao.
 ```
+### Exemplo de entrada de dado e retorno de procedimentos ###
 
 ```bash
 ?- iniciar_recomendacao.
@@ -184,6 +185,7 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 ```prolog
 recomendar_treino.
 ```
+### Exemplo de entrada de dado e retorno de procedimentos ###
 
 ```bash
 ?- recomendar_treino.
