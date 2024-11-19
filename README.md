@@ -144,6 +144,7 @@ iniciar_recomendacao.
 ```
 
 ```bash
+?- iniciar_recomendacao.
 Quais gêneros você prefere? (ficcao, ciencia, historia, autoajuda):
 |: ficcao.
 Quais são seus interesses? (politica, comportamento, ciencia, filosofia):
