@@ -20,7 +20,7 @@ O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnó
 doenca(gripe) :- febre, tosse, cansaco.
 doenca(infeccao_viral) :- febre, dor_de_garganta, dor_muscular.
 ```
-Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
+Para inicializar o programa basta abrir o compilador ``` SWI - Prolog ``` <br>
 1. Entrar na aba ```File``` <br>
 2. Clicar em ```Consult ...``` e selecionar o arquivo ```1-Analise_mecanica``` <br>
 3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
