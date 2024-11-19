@@ -1,6 +1,6 @@
 # Programação Lógica
 
-**Desenvolvido por**: [@Henrikygustavo](https://github.com/Henrikygustavo/) & [@GustavoVerdi](https://github.com/GustavoVerdi/).
+**Desenvolvido por**: [@Henrikygustavo](https://github.com/Henrikygustavo/) & [@GustavoVerdi](https://github.com/GustavoVerdi/)
 
 Este repositório contém uma série de sistemas desenvolvidos utilizando a linguagem de programação Prolog. <br> Cada sistema é projetado para resolver problemas específicos com base em um conjunto de regras de inferência, permitindo fazer diagnósticos e recomendações em diferentes áreas, como saúde, veículos, livros, treinos de academia e investigação criminal.
 
@@ -148,7 +148,7 @@ iniciar_analise.
 
 Clone este repositório:
 
-```Bash
+```Powershell
 git clone https://github.com/Henrikygustavo/Programacao-Logica-Prolog.git
 ```
 Abra o arquivo desejado no ambiente de desenvolvimento SWI-Prolog.
