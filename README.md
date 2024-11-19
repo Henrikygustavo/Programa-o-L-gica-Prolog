@@ -38,6 +38,24 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 diagnosticar.
 ```
 
+### Exemplo de entrada de dado e retorno de procedimentos ###
+
+```prolog?- diagnosticar.
+Bem-vindo ao sistema de diagnóstico médico!
+Por favor, informe seus sintomas um por um.
+Você tem algum sintoma? (sim/nao)
+|: sim.
+Informe o sintoma: 
+|: febre.
+Você tem algum sintoma? (sim/nao)
+|: sim.
+Informe o sintoma: 
+|: tosse.
+Você tem algum sintoma? (sim/nao)
+|: nao.
+Obrigado! Vamos analisar seus sintomas...
+Baseado nos seus sintomas, você pode estar com: gripe.
+```
 <hr>
 
 ## 2. Análise de Problemas de Veículos ##
