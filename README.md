@@ -144,7 +144,7 @@ iniciar_analise.
 Clone este repositório:
 
 ```Bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Henrikygustavo/Programacao-Logica-Prolog.git
 ```
 Abra o arquivo desejado no ambiente de desenvolvimento SWI-Prolog.
 
