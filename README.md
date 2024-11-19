@@ -40,7 +40,7 @@ diagnosticar.
 
 ### Exemplo de entrada de dado e retorno de procedimentos ###
 
-```prolog?- diagnosticar.
+```prolog
 ?- diagnosticar.
 Bem-vindo ao sistema de diagnóstico médico!
 Por favor, responda às perguntas sobre os sintomas.
@@ -90,6 +90,30 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 ```prolog
 diagnosticar.
 ```
+
+```prolog
+?- diagnosticar.
+Bem-vindo ao sistema de diagnóstico de problemas em veículos!
+Por favor, responda às perguntas sobre os sintomas do seu veículo.
+O veículo apresenta o seguinte sintoma: motor_nao_liga? (sim/nao) 
+|: sim.
+O veículo apresenta o seguinte sintoma: luzes_fracas? (sim/nao) 
+|: sim.
+O veículo apresenta o seguinte sintoma: barulho_ao_frear? (sim/nao) 
+|: nao.
+O veículo apresenta o seguinte sintoma: pedal_freio_macio? (sim/nao) 
+|: nao.
+O veículo apresenta o seguinte sintoma: vazamento_oleo? (sim/nao) 
+|: nao.
+O veículo apresenta o seguinte sintoma: aquecimento_motor? (sim/nao) 
+|: nao.
+O veículo apresenta o seguinte sintoma: fumaça_excesso? (sim/nao) 
+|: nao.
+Baseado nos sintomas, o problema pode ser: bateria_fraca.
+Solução recomendada: Verifique ou troque a bateria.
+Se o problema persistir, consulte um mecânico.
+```
+
 
 <hr>
 
