@@ -35,6 +35,7 @@ Exemplos de regras:
 problema(bateria_fraca) :- motor_nao_liga, luzes_fracas.
 problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 ```
+<hr>
 
 ## 3. Recomendações de Livros ##
 O sistema especialista de recomendações de livros sugere livros com base nos gêneros e interesses fornecidos pelo usuário. O usuário pode escolher múltiplos gêneros e interesses, e o sistema retorna uma lista de livros recomendados, incluindo título, gênero e uma breve sinopse.
@@ -50,6 +51,7 @@ Exemplos de regras:
 recomendar('1984') :- genero(ficcao), interesse(politica).
 recomendar('Sapiens') :- genero(historia), interesse(ciencia).
 ```
+<hr>
 
 ## 4. Recomendação de Treinos de Academia ##
 Este sistema sugere planos de treino para a academia baseados nos objetivos do usuário, como perder peso, ganhar massa muscular ou melhorar o condicionamento físico. O usuário também informa seu nível de experiência na academia e a disponibilidade de tempo para treinar.
@@ -65,6 +67,7 @@ Exemplos de regras:
 treino(hipertrofia) :- objetivo(ganhar_massa), experiencia(intermediario).
 treino(perda_de_peso) :- objetivo(emagrecer), disponibilidade(tempo_limitado).
 ```
+<hr>
 
 ## 5. Análise de Investigação Criminal ##
 O sistema especialista para análise de investigação criminal auxilia na análise de casos criminais, sugerindo suspeitos ou teorias do crime com base nas evidências e testemunhos fornecidos pelo usuário. Ele também recomenda investigar suspeitos ou verificar álibis, dependendo das evidências disponíveis.
@@ -81,7 +84,9 @@ suspeito(jose) :- impressao_digital(lugar_crime), motivo(financeiro).
 teoria(crime_passional) :- testemunha(visto_discutindo), relacao(intima).
 ```
 
-*Como Usar*
+<hr>
+
+**Como Usar**
 
 Clone este repositório:
 
