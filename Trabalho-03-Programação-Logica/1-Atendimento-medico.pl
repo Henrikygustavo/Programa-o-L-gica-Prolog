@@ -35,4 +35,3 @@ perguntar_sintomas([Sintoma | Restante]) :-
     ;   true
     ),
     perguntar_sintomas(Restante).
-% Desenvolvido por: Gustavo H. F. Bernardes & Gustavo Verdi.
