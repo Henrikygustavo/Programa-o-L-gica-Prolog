@@ -227,6 +227,21 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 iniciar_analise.
 ```
 
+```bash
+?- iniciar_analise.
+Há impressões digitais no local do crime? (sim/nao):
+|- sim.
+Qual o motivo possível do crime? (financeiro/pessoal/relacao_intima):
+|- financeiro.
+Testemunha ocular: A testemunha viu algo relevante? (sim/nao):
+|- sim.
+O suspeito tem um álibi verificado? (sim/nao):
+|- nao.
+Suspeito identificado: Jose (impressão digital e motivo financeiro)
+Recomendação de investigação com base nas evidências:
+Teoria: Crime financeiro (impressão digital e motivo financeiro)
+```
+
 <hr>
 
 ## Como Usar
