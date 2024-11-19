@@ -20,10 +20,11 @@ O sistema especialista em diagnóstico médico tem como objetivo sugerir diagnó
 doenca(gripe) :- febre, tosse, cansaco.
 doenca(infeccao_viral) :- febre, dor_de_garganta, dor_muscular.
 ```
-Para inicializar o programa basta abrir o compilador ``` SWI - Prolog ``` <br>
-1. Entrar na aba ```File``` <br>
-2. Clicar em ```Consult ...``` e selecionar o arquivo ```1-Analise_mecanica``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
+Para inicializar o programa basta seguir os seguintes passos <br>
+1. Abrir o compilador ``` SWI - Prolog ```.
+2. Entrar na aba ```File```. <br>
+3. Clicar em ```Consult ...``` e selecionar o arquivo ```1-Analise_mecanica```. <br>
+4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 diagnosticar.
@@ -47,10 +48,11 @@ Este sistema especialista ajuda a diagnosticar problemas comuns em veículos com
 problema(bateria_fraca) :- motor_nao_liga, luzes_fracas.
 problema(freio_desgastado) :- barulho_ao_frear, pedal_freio_macio.
 ```
-Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
-1. Entrar na aba File, <br>
-2. Clicar em Consult ... e selecionar o arquivo ```2-Analise_mecanica``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
+Para inicializar o programa basta seguir os seguintes passos <br>
+1. Abrir o compilador ``` SWI - Prolog ```.
+2. Entrar na aba ```File```. <br>
+3. Clicar em ```Consult ...``` e selecionar o arquivo ```2-Analise_mecanica```. <br>
+4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 diagnosticar.
@@ -74,10 +76,11 @@ Funcionalidades: <br>
 recomendar('1984') :- genero(ficcao), interesse(politica).
 recomendar('Sapiens') :- genero(historia), interesse(ciencia).
 ```
-Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
-1. Entrar na aba File, <br>
-2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
+Para inicializar o programa basta seguir os seguintes passos <br>
+1. Abrir o compilador ``` SWI - Prolog ```.
+2. Entrar na aba ```File```. <br>
+3. Clicar em ```Consult ...``` e selecionar o arquivo ```3-Recomendacao_de_livros```. <br>
+4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 iniciar_recomendacao.
@@ -101,10 +104,11 @@ Este sistema sugere planos de treino para a academia baseados nos objetivos do u
 treino(hipertrofia) :- objetivo(ganhar_massa), experiencia(intermediario).
 treino(perda_de_peso) :- objetivo(emagrecer), disponibilidade(tempo_limitado).
 ```
-Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
-1. Entrar na aba File, <br>
-2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixno console <br>
+Para inicializar o programa basta seguir os seguintes passos <br>
+1. Abrir o compilador ``` SWI - Prolog ```.
+2. Entrar na aba ```File```. <br>
+3. Clicar em ```Consult ...``` e selecionar o arquivo ```4-Recomendacao_de_treinos```. <br>
+4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 recomendar_treino.
@@ -128,10 +132,11 @@ O sistema especialista para análise de investigação criminal auxilia na anál
 suspeito(jose) :- impressao_digital(lugar_crime), motivo(financeiro).
 teoria(crime_passional) :- testemunha(visto_discutindo), relacao(intima).
 ```
-Para inicializar o programa basta abrir o compilador SWI - Prolog <br>
-1. Entrar na aba File, <br>
-2. Clicar em Consult ... e selecionar o arquivo ```3-Recomendacao_de_livros``` <br>
-3. Ao realizar os passos acima basta executar o comando abaixo no console <br>
+Para inicializar o programa basta seguir os seguintes passos <br>
+1. Abrir o compilador ``` SWI - Prolog ```.
+2. Entrar na aba ```File```. <br>
+3. Clicar em ```Consult ...``` e selecionar o arquivo ```5-Investigação_criminal```. <br>
+4. Ao realizar os passos acima basta executar o comando abaixo no console. <br>
 
 ```prolog
 iniciar_analise.
