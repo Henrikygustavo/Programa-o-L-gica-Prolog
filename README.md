@@ -19,6 +19,7 @@ Exemplos de regras:
 doenca(gripe) :- febre, tosse, cansaço.
 doenca(infeccao_viral) :- febre, dor_de_garganta, dor_muscular.
 ```
+<hr>
 
 ## 2. Análise de Problemas de Veículos ##
 Este sistema especialista ajuda a diagnosticar problemas comuns em veículos com base em sintomas e comportamentos relatados pelos usuários. O usuário pode informar se o motor não liga, se há barulho estranho ao frear, ou se há vazamento de óleo, e o sistema sugerirá possíveis soluções e recomendações.
