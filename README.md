@@ -115,7 +115,6 @@ Solução recomendada: Verifique ou troque a bateria.
 Se o problema persistir, consulte um mecânico.
 ```
 
-
 <hr>
 
 ## 3. Recomendações de Livros ##
@@ -143,6 +142,19 @@ Para inicializar o programa basta seguir os seguintes passos <br>
 ```prolog
 iniciar_recomendacao.
 ```
+
+```bash
+Quais gêneros você prefere? (ficcao, ciencia, historia, autoajuda):
+|: ficcao.
+Quais são seus interesses? (politica, comportamento, ciencia, filosofia):
+|: politica.
+Recomendação:
+Livro: 1984
+Gênero: ficcao
+Interesse: politica
+Sinopse: Um romance distópico de George Orwell que descreve um mundo totalitário dominado pela vigilância e controle social.
+```
+
 
 <hr>
 
