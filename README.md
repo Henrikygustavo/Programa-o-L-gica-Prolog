@@ -41,20 +41,27 @@ diagnosticar.
 ### Exemplo de entrada de dado e retorno de procedimentos ###
 
 ```prolog?- diagnosticar.
+?- diagnosticar.
 Bem-vindo ao sistema de diagnóstico médico!
-Por favor, informe seus sintomas um por um.
-Você tem algum sintoma? (sim/nao)
+Por favor, responda às perguntas sobre os sintomas.
+Você está com febre? (sim/nao) 
 |: sim.
-Informe o sintoma: 
-|: febre.
-Você tem algum sintoma? (sim/nao)
+Você está com tosse? (sim/nao) 
 |: sim.
-Informe o sintoma: 
-|: tosse.
-Você tem algum sintoma? (sim/nao)
+Você está com cansaço? (sim/nao) 
+|: sim.
+Você está com dor_de_garganta? (sim/nao) 
 |: nao.
-Obrigado! Vamos analisar seus sintomas...
+Você está com dor_muscular? (sim/nao) 
+|: nao.
+Você está com dor_de_cabeca? (sim/nao) 
+|: nao.
+Você está com nausea? (sim/nao) 
+|: nao.
+Você está com vomito? (sim/nao) 
+|: nao.
 Baseado nos seus sintomas, você pode estar com: gripe.
+
 ```
 <hr>
 
